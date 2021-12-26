@@ -9,6 +9,7 @@
 
 ### Languages
 
+![Assembler](https://img.shields.io/badge/-Assembler-000?&logo=Assembler)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
