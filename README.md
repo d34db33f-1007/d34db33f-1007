@@ -32,7 +32,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
 ![VMware](https://img.shields.io/badge/-VMware-000?&logo=VMware&logoColor=0052CC)
-![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle&logoColor=FF0000)
 ![Kibana](https://img.shields.io/badge/-Kibana-000?&logo=Kibana&logoColor=FFA500)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch&logoColor=80D5C3)
 ![Logstash](https://img.shields.io/badge/-Logstash-000?&logo=Logstash&logoColor=0052CC)
