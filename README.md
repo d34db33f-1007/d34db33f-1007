@@ -1,7 +1,7 @@
 - 👾 Looking for a hackaton everytime.
 - 👾 Owning an AMM Decentralzed Exchange with the crypto-assets.
 - 👾 Love coding on Python language.
-- 👾 Love Testing Automation and SecOps.
+- 👾 Love QA Test Automation and SecOps.
 - 👾 Love security researching. 
 - 👾 Playing the chess.
 - 👾 Invite me to a CTF.
