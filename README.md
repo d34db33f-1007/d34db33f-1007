@@ -34,6 +34,6 @@
 ![SoapUI](https://img.shields.io/badge/-SoapUI-000?&logo=SoapUI&logoColor=FCC624)
 ![OSCP](https://img.shields.io/badge/-OSCP-000)
 ![BurpSuite](https://img.shields.io/badge/-BurpSuite-000)
-![OWASP](https://img.shields.io/badge/OWASP-ZAP-000)
+![OWASP](https://img.shields.io/badge/OWASP--000)
 
 ###### How to reach me: https://t.me/ju_oj
