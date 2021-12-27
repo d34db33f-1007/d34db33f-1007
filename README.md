@@ -1,10 +1,14 @@
 - 👾 Looking for a hackaton everytime.
+- 👾 Owning an AMM Decentralzed Exchange with the crypto-assets.
+- 👾 Love coding on Python language.
+- 👾 Love Testing Automation and SecOps.
+- 👾 Love security researching. 
 - 👾 Playing the chess.
 - 👾 Invite me to a CTF.
 - 👾 Invite me to an ARG.
 - 👾 Invite me to a private security program.
 - 👾 Love to hacking and bug hunting!
-- 👾 Can be your remote SecOps Engineer.
+- 👾 Can be your remote SecOps Engineer or a QA/QC Engineer c;
 
 
 ### Languages
@@ -24,6 +28,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![YandexTank](https://img.shields.io/badge/-YandexTank-000?&logo=YandexTank)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FCC624)
+![SoapUI](https://img.shields.io/badge/-SoapUI-000?&logo=SoapUI&logoColor=FCC624)
 ![BurpSuite](https://img.shields.io/badge/OSCP-BurpSuite-000)
 ![OWASP](https://img.shields.io/badge/OWASP-ZAP-000)
 
