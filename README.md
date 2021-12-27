@@ -21,10 +21,10 @@
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=fff)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FCC624)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure)
-![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=Ethereum)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=fff)
+![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=Ethereum&logoColor=FF007F)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=61DE2A)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
@@ -42,7 +42,7 @@
 ![SoapUI](https://img.shields.io/badge/-SoapUI-000?&logo=SoapUI&logoColor=FCC624)
 ![OSCP](https://img.shields.io/badge/-OSCP-000?&logo=OSCP)
 ![BurpSuite](https://img.shields.io/badge/-BurpSuite-000?&logo=BurpSuite)
-![OWASP](https://img.shields.io/badge/OWASP--000?&logo=OWASP)
+![OWASP](https://img.shields.io/badge/OWASP--000?&logo=OWASP&logoColor=61DE2A)
 
 ###### How to reach me: https://t.me/ju_oj
 
