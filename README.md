@@ -1,4 +1,4 @@
-- 👾 Owning an AMM Decentralzed Exchange with a crypto-assets.
+- 👾 Owning an AMM Decentralized Exchange with a crypto-assets.
 - 👾 Love coding on Python language.
 - 👾 Love QA Test Automation and SecOps.
 - 👾 Love security researching. 
