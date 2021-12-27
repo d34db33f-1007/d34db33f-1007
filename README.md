@@ -27,6 +27,9 @@
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![VMware](https://img.shields.io/badge/-VMware-000?&logo=VMware)
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
 ![Kibana](https://img.shields.io/badge/-Kibana-000?&logo=Kibana)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
 ![Logstash](https://img.shields.io/badge/-Logstash-000?&logo=Logstash)
@@ -34,9 +37,9 @@
 ![YandexTank](https://img.shields.io/badge/-YandexTank-000?&logo=YandexTank)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FCC624)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-000?&logo=SoapUI&logoColor=FCC624)
-![OSCP](https://img.shields.io/badge/-OSCP-000)
-![BurpSuite](https://img.shields.io/badge/-BurpSuite-000)
-![OWASP](https://img.shields.io/badge/OWASP--000)
+![OSCP](https://img.shields.io/badge/-OSCP-000?&logo=OSCP)
+![BurpSuite](https://img.shields.io/badge/-BurpSuite-000?&logo=BurpSuite)
+![OWASP](https://img.shields.io/badge/OWASP--000?&logo=OWASP)
 
 ###### How to reach me: https://t.me/ju_oj
 
