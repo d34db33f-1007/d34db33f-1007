@@ -21,6 +21,7 @@
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=fff)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
@@ -29,7 +30,6 @@
 ![Kibana](https://img.shields.io/badge/-Kibana-000?&logo=Kibana)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
 ![Logstash](https://img.shields.io/badge/-Logstash-000?&logo=Logstash)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![YandexTank](https://img.shields.io/badge/-YandexTank-000?&logo=YandexTank)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FCC624)
