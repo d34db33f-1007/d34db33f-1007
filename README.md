@@ -32,7 +32,8 @@
 ![YandexTank](https://img.shields.io/badge/-YandexTank-000?&logo=YandexTank)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FCC624)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-000?&logo=SoapUI&logoColor=FCC624)
-![BurpSuite](https://img.shields.io/badge/OSCP-BurpSuite-000)
+![OSCP](https://img.shields.io/badge/-OSCP-000)
+![BurpSuite](https://img.shields.io/badge/-BurpSuite-000)
 ![OWASP](https://img.shields.io/badge/OWASP-ZAP-000)
 
 ###### How to reach me: https://t.me/ju_oj
