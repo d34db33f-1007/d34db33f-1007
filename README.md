@@ -27,6 +27,7 @@
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![YandexTank](https://img.shields.io/badge/-YandexTank-000?&logo=YandexTank)
