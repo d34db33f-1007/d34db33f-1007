@@ -34,7 +34,7 @@
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
 ![Logstash](https://img.shields.io/badge/-Logstash-000?&logo=Logstash)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![YandexTank](https://img.shields.io/badge/-YandexTank-000?&logo=YandexTank)
+![YandexTank](https://img.shields.io/badge/-Yandex%20Tank-000?&logo=Yandex%20Tank)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FCC624)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-000?&logo=SoapUI&logoColor=FCC624)
 ![OSCP](https://img.shields.io/badge/-OSCP-000?&logo=OSCP)
