@@ -1,11 +1,10 @@
 - 👾 Owning an AMM Decentralized Exchange with a crypto-assets.
 - 👾 Love coding on Python language.
 - 👾 Love QA Test Automation and SecOps.
-- 👾 Love security researching. 
+- 👾 Love to hacking and bug hunting! 
 - 👾 Love playing the chess.
 - 👾 Invite me to a Hackaton / CTF / ARG.
 - 👾 Invite me to a private security program.
-- 👾 Love to hacking and bug hunting!
 - 👾 Can be your remote SecOps Engineer or a QA/QC Engineer c;
 
 
