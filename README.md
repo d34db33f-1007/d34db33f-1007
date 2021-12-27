@@ -51,6 +51,7 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=Wireshark&logoColor=0052CC)
 ![TestComplete](https://img.shields.io/badge/-TestComplete-000?&logo=TestComplete)
 ![Telerik](https://img.shields.io/badge/-Telerik-000?&logo=Telerik)
+![Appium](https://img.shields.io/badge/-Appium-000?&logo=Appium)
 ![OSCP](https://img.shields.io/badge/-OSCP-000?&logo=OSCP)
 ![BurpSuite](https://img.shields.io/badge/-BurpSuite-000?&logo=BurpSuite)
 ![MetaSploit](https://img.shields.io/badge/-MetaSploit-000?&logo=MetaSploit)
