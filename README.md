@@ -1,4 +1,4 @@
-- 👾 Owning an AMM Decentralized Exchange with a crypto-assets.
+- 👾 Owning an AMM Decentralized Exchange for crypto-assets.
 - 👾 [OSCP] Offensive Security Certified Professional
 - 👾 Love coding on Python language.
 - 👾 Love QA Test Automation and SecOps.
