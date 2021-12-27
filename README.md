@@ -1,9 +1,9 @@
 - 👾 Looking for a hackaton everytime.
-- 👾 Owning an AMM Decentralzed Exchange with the crypto-assets.
+- 👾 Owning an AMM Decentralzed Exchange with a crypto-assets.
 - 👾 Love coding on Python language.
 - 👾 Love QA Test Automation and SecOps.
 - 👾 Love security researching. 
-- 👾 Playing the chess.
+- 👾 Love playing the chess.
 - 👾 Invite me to a CTF.
 - 👾 Invite me to an ARG.
 - 👾 Invite me to a private security program.
