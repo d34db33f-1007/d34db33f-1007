@@ -23,6 +23,7 @@
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=fff)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure)
+![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=Ethereum)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
