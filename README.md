@@ -28,6 +28,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![YandexTank](https://img.shields.io/badge/-YandexTank-000?&logo=YandexTank)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=FCC624)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-000?&logo=SoapUI&logoColor=FCC624)
