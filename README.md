@@ -26,7 +26,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FCC624)
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-000?&logo=GoogleCloud)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?&logo=DigitalOcean)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=Microsoft%20Azure)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=Ethereum&logoColor=FF007F)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
