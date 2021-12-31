@@ -13,12 +13,16 @@
 
 ![Assembler](https://img.shields.io/badge/-Assembler-000?&logo=Assembler)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=PowerShell)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 ![SQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
+### Learning
+
+![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
 ### Technologies
 
