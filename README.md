@@ -33,6 +33,8 @@
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?&logo=DigitalOcean)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=Microsoft%20Azure)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
+![Numba](https://img.shields.io/badge/-Numba-000?&logo=Numba)
+![Impacket](https://img.shields.io/badge/-Impacket-000?&logo=Impacket)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=Ethereum&logoColor=FF007F)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
