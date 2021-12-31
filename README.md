@@ -47,6 +47,7 @@
 ![VMware](https://img.shields.io/badge/-VMware-000?&logo=VMware&logoColor=0052CC)
 ![Qemu](https://img.shields.io/badge/-Qemu-000?&logo=Qemu)
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle&logoColor=FF0000)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![Kibana](https://img.shields.io/badge/-Kibana-000?&logo=Kibana&logoColor=FFA500)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch&logoColor=80D5C3)
 ![Logstash](https://img.shields.io/badge/-Logstash-000?&logo=Logstash&logoColor=0052CC)
