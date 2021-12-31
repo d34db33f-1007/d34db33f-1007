@@ -23,6 +23,7 @@
 
 ![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![R](https://img.shields.io/badge/-R-000?&logo=R)
 
 ### Technologies
 
