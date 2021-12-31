@@ -16,7 +16,7 @@
 ![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=PowerShell)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 ![SQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
