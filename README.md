@@ -22,6 +22,7 @@
 ### Learning
 
 ![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 
