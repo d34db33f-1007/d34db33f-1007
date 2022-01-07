@@ -29,6 +29,7 @@
 ### Technologies
 
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=61DE2A)
+![Travis](https://img.shields.io/badge/-Travis-000?&logo=Travis)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FCC624)
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-000?&logo=GoogleCloud)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?&logo=DigitalOcean)
@@ -61,6 +62,7 @@
 ![TestComplete](https://img.shields.io/badge/-TestComplete-000?&logo=TestComplete)
 ![Telerik](https://img.shields.io/badge/-Telerik-000?&logo=Telerik)
 ![Appium](https://img.shields.io/badge/-Appium-000?&logo=Appium)
+![Fiddler](https://img.shields.io/badge/-Fiddler-000?&logo=Fiddler)
 ![OSCP](https://img.shields.io/badge/-OSCP-000?&logo=OSCP)
 ![BurpSuite](https://img.shields.io/badge/-BurpSuite-000?&logo=BurpSuite)
 ![MetaSploit](https://img.shields.io/badge/-MetaSploit-000?&logo=MetaSploit)
