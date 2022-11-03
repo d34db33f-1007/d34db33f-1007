@@ -12,8 +12,11 @@
 ### Languages
 
 ![Assembler](https://img.shields.io/badge/-Assembler-000?&logo=Assembler)
+![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Vyper](https://img.shields.io/badge/-Vyper-000?&logo=Vyper)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=PowerShell)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
@@ -21,8 +24,6 @@
 
 ### Learning
 
-![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
-![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 
